@@ -19,3 +19,6 @@ elif num == "3":
     print("Three")
 else:
     print("Not Valid")
+    
+  else:
+    break
